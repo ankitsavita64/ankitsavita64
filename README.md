@@ -1,16 +1,67 @@
-## Hi there 👋
+# Hi 👋, I'm Ankit
 
-<!--
-**ankitsavita64/ankitsavita64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Backend Developer | Python Developer | Django Developer 
 
-Here are some ideas to get you started:
+I am passionate about building scalable backend systems and AI-powered applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🔭 Currently working on: AI-based Medical Analysis Project
+* 🌱 Learning: Advanced Django, DRF, System Design, AWS
+* 👨‍💻 All of my projects are available on GitHub
+* 💬 Ask me about: Python, Django, Backend Development
+* 📫 Reach me at: [ankitsavita0051@gmail.com](mailto:ankitsavita0051@gmail.com)
+* ⚡ Fun fact: I love solving real-world problems using code
+
+---
+
+## Tech Stack
+
+### Backend
+
+Python | Django | Django REST Framework 
+
+### Database
+
+PostgreSQL 
+
+### Tools
+
+Git | GitHub | Postman | VS Code 
+
+### Cloud / Deployment
+
+Render |  AWS (Learning)
+
+---
+
+## Featured Projects
+
+### AI Medical Analysis System
+
+Heart Disease + Diabetes Prediction using ML + Django
+
+### Backend REST API Project
+
+Authentication + JWT + CRUD + Production-ready APIs
+
+### Portfolio Backend Project
+
+Scalable backend architecture using Django
+
+---
+
+## GitHub Stats
+
+(Add GitHub stats badges here)
+
+---
+
+ 
+
+## Connect with me
+
+* LinkedIn: 
+* GitHub: https://github.com/ankitsavita64
+* Portfolio: Coming Soon 🚀
+* Email: [ankitsavita0051@gmail.com](mailto:ankitsavita0051@gmail.com)
+
+  
