@@ -49,14 +49,6 @@ Scalable backend architecture using Django
 
 ---
 
-## GitHub Stats
-
-(Add GitHub stats badges here)
-
----
-
- 
-
 ## Connect with me
 
 * LinkedIn: 
