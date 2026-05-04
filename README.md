@@ -51,7 +51,7 @@ Scalable backend architecture using Django
 
 ## Connect with me
 
-* LinkedIn: 
+* LinkedIn: https://www.linkedin.com/in/ankit-savita-91a3923b3/?skipRedirect=true
 * GitHub: https://github.com/ankitsavita64
 * Portfolio: Coming Soon 🚀
 * Email: [ankitsavita0051@gmail.com](mailto:ankitsavita0051@gmail.com)
