@@ -1,133 +1,150 @@
 # Hi 👋, I'm Ankit Savita
 
-## Backend Developer | Python Developer | Django & DRF Developer
+# Python Backend Developer | Django REST Framework | AWS | Docker | CI/CD
 
-I build backend applications with **Python, Django, Django REST Framework, and PostgreSQL**.
-I enjoy designing clean APIs, solving real-world problems, and building scalable backend systems.
+I build **production-ready backend applications** using **Python, Django, Django REST Framework, PostgreSQL, Docker, and AWS**.
 
-Currently exploring **Advanced Django, REST API architecture, System Design, Cloud Deployment, and AI-powered applications.**
+I enjoy designing secure REST APIs, deploying scalable backend systems, and solving real-world engineering problems through clean architecture and automation.
 
----
-
-## 🚀 What I'm Working On
-
-🔭 **AI Medical Analysis System**
-Building an AI-powered healthcare application using Machine Learning + Django to analyze health risks like Heart Disease and Diabetes prediction.
-
-🌱 Currently learning:
-
-* Advanced Django & Django REST Framework
-* Backend System Design
-* Database Optimization
-* AWS Deployment
-* AI Integration with Backend Systems
+Currently focused on mastering **Backend Engineering, Cloud Deployment, System Design, and AI-powered Applications.**
 
 ---
 
-## 💻 My Technical Skills
+# 🚀 Current Focus
 
-### Backend Development
+🔭 Building **production-ready backend systems**
 
-* Python
-* Django
-* Django REST Framework
-* REST APIs
-* Authentication & Authorization
-* JWT Authentication
-* CRUD Operations
-* API Design
+🌱 Currently learning
 
-### Database
-
-* PostgreSQL
-* Database Modeling
-* Query Optimization
-
-### Development Tools
-
-* Git & GitHub
-* Postman
-* VS Code
-* Linux 
-
-### Deployment & Cloud
-
-* AWS(EC2)
-* Render
-* Production Deployment
-* Environment Configuration
-* https and SSL certificate on web
+- Advanced Django & Django REST Framework
+- Backend System Design
+- Database Optimization
+- AWS Cloud Services
+- Docker & Containerization
+- CI/CD Automation
+- AI Integration with Backend Applications
 
 ---
 
-## 🔥 Featured Projects
+# 💻 Tech Stack
 
-### 🏥 AI Medical Analysis System
+## Backend
 
-**Machine Learning + Django Backend**
+- Python
+- Django
+- Django REST Framework
+- REST API Development
+- JWT Authentication
+- Authentication & Authorization
+- CRUD Operations
+- API Design
 
-A healthcare-based application that predicts health risks using ML models and provides analysis through a Django backend.
+## Database
 
-Features:
+- PostgreSQL
+- SQLite
+- Database Design
+- Query Optimization
 
-* ML model integration
-* Django backend architecture
-* REST API development
-* Data processing workflow
+## DevOps & Deployment
 
----
+- Docker
+- Docker Compose
+- AWS EC2
+- Nginx
+- Gunicorn
+- GitHub Actions
+- CI/CD
+- HTTPS (Let's Encrypt)
+- Linux (Ubuntu)
 
-### 🔐 Backend REST API Platform
+## Tools
 
-A production-style backend project focused on API development.
-
-Features:
-
-* JWT Authentication
-* User Management
-* CRUD APIs
-* PostgreSQL Integration
-* API Testing with Postman
-
----
-
-### 🌐 Portfolio Backend System
-
-A scalable Django backend project demonstrating:
-
-* Clean backend architecture
-* Database handling
-* API development
-* Deployment workflow
-
----
-
-## 🎯 What I Can Help With
-
-I enjoy working on:
-
-* Backend Development
-* Django Applications
-* REST API Development
-* Database Design
-* Deploying Applications
-* AI + Backend Integration
+- Git
+- GitHub
+- Postman
+- VS Code
 
 ---
 
-## 📫 Connect With Me
+# 🔥 Featured Projects
 
-LinkedIn:
-https://www.linkedin.com/in/ankit-savita-91a3923b3/
+## 🔐 Secure Authentication System
 
-GitHub:
+A production-ready authentication backend built using Django REST Framework.
+
+### Features
+
+- JWT Authentication
+- Role-Based Access Control
+- RESTful APIs
+- PostgreSQL Integration
+- Dockerized Application
+- AWS EC2 Deployment
+- Nginx Reverse Proxy
+- HTTPS with Let's Encrypt
+- GitHub Actions CI/CD Pipeline
+- Production-ready Linux Deployment
+
+### Tech Stack
+
+Python • Django • DRF • PostgreSQL • Docker • AWS EC2 • Nginx • Gunicorn • GitHub Actions
+
+---
+
+## 🏥 AI Medical Analysis System
+
+An AI-powered healthcare backend application capable of analyzing health risks using Machine Learning models.
+
+### Features
+
+- Disease Prediction APIs
+- Machine Learning Integration
+- Django Backend
+- REST API Architecture
+- PostgreSQL Database
+- Secure Backend Design
+
+### Tech Stack
+
+Python • Django • Machine Learning • PostgreSQL
+
+---
+
+# 📚 Currently Exploring
+
+- Backend System Design
+- API Security
+- Redis
+- Celery
+- AWS Services
+- Kubernetes
+- Scalable Backend Architecture
+
+---
+
+# 🎯 Career Objective
+
+Seeking opportunities as a **Python Backend Developer** where I can contribute to building scalable backend systems while continuously improving my software engineering and cloud deployment skills.
+
+---
+
+# 📫 Connect With Me
+
+### GitHub
+
 https://github.com/ankitsavita64
 
-Email:
-[ankitsavita0051@gmail.com](mailto:ankitsavita0051@gmail.com)
+### LinkedIn
+
+https://www.linkedin.com/in/ankit-savita-91a3923b3
+
+### Email
+
+ankitsavita0051@gmail.com
 
 ---
 
-⚡ Fun Fact:
-I love turning ideas into working software and solving problems through code.
+# ⚡ Fun Fact
 
+I enjoy taking backend applications from **local development to production deployment**, including Docker, AWS EC2, Nginx, HTTPS, and CI/CD automation.
