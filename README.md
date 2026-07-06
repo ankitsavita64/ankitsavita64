@@ -48,14 +48,15 @@ Building an AI-powered healthcare application using Machine Learning + Django to
 * Git & GitHub
 * Postman
 * VS Code
-* Linux Basics
+* Linux 
 
 ### Deployment & Cloud
 
-* AWS
+* AWS(EC2)
 * Render
 * Production Deployment
 * Environment Configuration
+* https and SSL certificate on web
 
 ---
 
