@@ -51,7 +51,7 @@ Currently focused on mastering **Backend Engineering, Cloud Deployment, System D
 - Docker
 - Docker Compose
 - AWS EC2
-- Nginx
+- Nginx Reverse proxy
 - Gunicorn
 - GitHub Actions
 - CI/CD
@@ -90,6 +90,9 @@ A production-ready authentication backend built using Django REST Framework.
 
 Python • Django • DRF • PostgreSQL • Docker • AWS EC2 • Nginx • Gunicorn • GitHub Actions
 
+### Live Demo
+
+https://secureauth4752.duckdns.org/
 ---
 
 ## 🏥 AI Medical Analysis System
@@ -119,6 +122,8 @@ Python • Django • Machine Learning • PostgreSQL
 - Celery
 - AWS Services
 - Kubernetes
+- terraform
+- prometheus and grafana
 - Scalable Backend Architecture
 
 ---
